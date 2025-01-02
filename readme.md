@@ -19,8 +19,6 @@ Consider the following diagram to understand how the different chains and compon
 ![Chatbot Architecture](./docs/mysql-chains.png)
 
 
-For a more detailed explanation and a step-by-step guide, refer to the [YouTube video tutorial](Chat with MySQL Database with Python | LangChain Tutorial).
-
 ## Installation
 Ensure you have Python installed on your machine. Then clone this repository:
 
@@ -57,7 +55,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-We hope this repository aids in your exploration of integrating AI with web technologies. For more informative tutorials, be sure to check out [Your YouTube Channel].
+We hope this repository aids in your exploration of integrating AI with web technologies.
 
 Happy Coding! 🚀👨‍💻🤖
 
